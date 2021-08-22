@@ -5,10 +5,10 @@
 
 ## 🎓 I'm a BE - Computer Science student at Thapar Institute
 
-* 💡  I like to explore new technologies and develop software solutions and quick hacks.
-* 🌱  I'm on track for learning more about Network Security and Block Chain.
-* 👯 I’m looking to collaborate with anyone on projects.
-* 💬  Feel free to reach out to me for some interesting discussion.
+*  I like to explore new technologies and develop software solutions and quick hacks.
+*  I'm on track for learning more about Network Security and Block Chain.
+*  I’m looking to collaborate with anyone on projects.
+*  Feel free to reach out to me for some interesting discussion.
 
 ## ✉️ Find me on:
 
@@ -26,8 +26,8 @@
 <!-- <img src="django.png" alt="Django" height="70" style="vertical-align:top; margin:4px">
 <img src="go.png" alt="Go" height="70" style="vertical-align:top; margin:4px"> -->
 <img src="html.png" alt="HTML" height="70" style="vertical-align:top; margin:4px">
-<img src="css.png" alt="CSS" height="70" style="vertical-align:top; margin:4px">
-<img src="linux.png" alt="CSS" height="70" style="vertical-align:top; margin:4px">
+<img src="css_1.png" alt="CSS" height="70" style="vertical-align:top; margin:4px">
+<img src="linux_1.png" alt="CSS" height="70" style="vertical-align:top; margin:4px">
 <img src="wireshark.png" alt="CSS" height="70" style="vertical-align:top; margin:4px">
 <!-- <img src="js.png" alt="JS" height="70" style="vertical-align:top; margin:4px">
 <img src="mongo.png" alt="Mongodb" height="70" style="vertical-align:top; margin:4px"> -->
