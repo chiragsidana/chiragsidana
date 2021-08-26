@@ -1,7 +1,6 @@
-# Hi there I'm Chirag Sidana 
+# Hi there  I'm Chirag Sidana 
 <br />
-<!-- // hello -->
-<!-- hjjjgj -->
+
 [![Github](https://img.shields.io/github/followers/chiragsidana?label=Follow&style=social)](https://github.com/chiragsidana) &nbsp; ![views](https://komarev.com/ghpvc/?username=chiragsidana)
 
 ##  I'm a BE - Computer Science student at Thapar Institute
