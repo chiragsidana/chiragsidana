@@ -42,5 +42,9 @@
 
 ##  GitHub Analytics
 
-![Parv's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragsidana&theme=dark&show_icons=true) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragsidana&theme=dark)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=chiragsidana&show_icons=true&theme=dark" width = 500>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chiragsidana&theme=dark" width = 300>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=chiragsidana&theme=dark&hide_border=true" width = 500>
+</p>
 
