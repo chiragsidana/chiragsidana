@@ -1,14 +1,14 @@
-# Hi there  I'm Chirag Sidana 
+# Hi I'm Chirag Sidana 
 <br />
 
  &nbsp; ![views](https://komarev.com/ghpvc/?username=chiragsidana)
 
 ##  I'm a BE - Computer Science student at Thapar Institute
-
+<!-- 
 *  I like to explore new technologies and develop software solutions and quick hacks.
 *  I'm on track for learning more about Network Security and Block Chain.
 *  I’m looking to collaborate with anyone on projects.
-*  Feel free to reach out to me for some interesting discussion.
+*  Feel free to reach out to me for some interesting discussion. -->
 
 ##  Find me on:
 
