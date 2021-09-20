@@ -13,9 +13,9 @@
 ##  Find me on:
 
 <p align="center">
- <a href="https://linkedin.com/in/chiragsidana"><img src="lld2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:chiragsidana2709@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
- <a href="https://instagram.com/chiragsidanaa"> <img src="insta.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/chiragsidana"><img src="linkedin2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:chiragsidana2709@gmail.com"> <img src="mail2.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
+ <a href="https://instagram.com/chiragsidanaa"> <img src="insta2.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
