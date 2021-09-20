@@ -3,7 +3,7 @@
 
  &nbsp; ![views](https://komarev.com/ghpvc/?username=chiragsidana)
 
-##  I'm a BE - Computer Science student at Thapar Institute
+## BE - Computer Science student at Thapar Institute
 <!-- 
 *  I like to explore new technologies and develop software solutions and quick hacks.
 *  I'm on track for learning more about Network Security and Block Chain.
