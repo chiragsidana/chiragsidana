@@ -48,7 +48,7 @@
 
 <br /> -->
 
-##  GitHub Analytics
+<!-- ##  GitHub Analytics -->
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=chiragsidana&show_icons=true&theme=dark" width = 500>
