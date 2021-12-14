@@ -49,7 +49,7 @@
 <br /> -->
 
 <!-- ##  GitHub Analytics -->
-
+![](https://activity-graph.herokuapp.com/graph?username=chiragsidana&theme=react-dark&hide_border=true&area=true)
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=chiragsidana&show_icons=true&theme=dark" width = 500>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chiragsidana&theme=dark" width = 300>
