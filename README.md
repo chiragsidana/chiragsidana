@@ -1,7 +1,7 @@
 <!-- # Hi I'm Chirag Sidana 
 <br /> -->
 
-
+ &nbsp; ![views](https://komarev.com/ghpvc/?username=chiragsidana)
 
 <!-- ## BE - Computer Science student at Thapar Institute -->
 <!-- 
@@ -56,7 +56,7 @@
   <!-- <img src = "https://github-readme-streak-stats.herokuapp.com/?user=chiragsidana&theme=dark&hide_border=true" width = 500> -->
    <img src = "http://github-readme-streak-stats.herokuapp.com?user=chiragsidana&theme=dark&fire=46D1E4&ring=46D1E4&currStreakLabel=46D1E4&border=DDDDDD&currStreakNum=FFFFFF&sideLabels=46D1E4&dates=FA8B00" width = 500>
 </p>
- &nbsp; ![views](https://komarev.com/ghpvc/?username=chiragsidana)
+
 <!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sudhnsh&show_icons=true&theme=dark" width = 500>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sudhnsh&theme=dark" width = 300>
